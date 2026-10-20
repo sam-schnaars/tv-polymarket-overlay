@@ -1,0 +1,8 @@
+{
+  "name": "polymarket-tv-overlay",
+  "description": "Live Polymarket odds and game graphs over anything on your Android TV, Google TV or Fire TV. Your agent installs and configures it over Wi-Fi.",
+  "version": "1.0.0",
+  "author": { "name": "Sam Schnaars" },
+  "license": "MIT",
+  "keywords": ["polymarket", "android-tv", "fire-tv", "overlay", "sports"]
+}

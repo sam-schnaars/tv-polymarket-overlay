@@ -1,0 +1,9 @@
+.gradle/
+build/
+app/build/
+local.properties
+tools/venv/
+tools/adbkey/
+tools/__pycache__/
+*.apk
+.DS_Store

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Polymarket Overlay</string>
+    <string name="key_toggle_name">Polymarket Overlay: hold Menu to toggle</string>
+    <string name="key_toggle_desc">Shows or hides the Polymarket overlay when you hold the remote\'s Menu button. Only watches key presses; reads nothing on screen.</string>
+</resources>

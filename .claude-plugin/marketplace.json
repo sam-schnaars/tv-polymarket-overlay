@@ -1,0 +1,11 @@
+{
+  "name": "polymarket-tv-overlay",
+  "owner": { "name": "Sam Schnaars" },
+  "plugins": [
+    {
+      "name": "polymarket-tv-overlay",
+      "source": "./",
+      "description": "Live Polymarket odds and game graphs over anything on your Android TV, Google TV or Fire TV."
+    }
+  ]
+}
